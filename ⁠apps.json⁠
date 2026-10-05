@@ -1,0 +1,34 @@
+{
+  "name": "My GTA Source",
+  "identifier": "com.mysource.gta",
+  "subtitle": "GTA San Andreas Source",
+  "description": "Source for GTA SA",
+  "iconURL": "https://ipalibrary.me/wp-content/uploads/2021/11/gta-sa-icon.png",
+  "headerURL": "https://ipalibrary.me/wp-content/uploads/2021/11/gta-sa-icon.png",
+  "website": "https://github.com",
+  "tintColor": "000000",
+  "featuredApps": [
+    "com.rockstargames.gta-sa"
+  ],
+  "apps": [
+    {
+      "name": "GTA: San Andreas",
+      "bundleIdentifier": "com.rockstargames.gta-sa",
+      "developerName": "Rockstar Games",
+      "subtitle": "Grand Theft Auto",
+      "localizedDescription": "Grand Theft Auto: San Andreas для iOS.",
+      "iconURL": "https://ipalibrary.me/wp-content/uploads/2021/11/gta-sa-icon.png",
+      "tintColor": "000000",
+      "versions": [
+        {
+          "version": "2.2.21",
+          "date": "2024-01-01T00:00:00Z",
+          "localizedDescription": "Версия 2.2.21",
+          "downloadURL": "https://dl.iosvizor.net/grand-theft-auto-san-andreas/Grand-Theft-Auto-San-Andreas-v2.2.21.ipa",
+          "size": 2100000000,
+          "minOSVersion": "12.0"
+        }
+      ]
+    }
+  ]
+}
